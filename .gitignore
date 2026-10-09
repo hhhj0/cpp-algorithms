@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.aps
+*.idb
+*.ipch/
+*.sdf
+
+# 编译产物
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+
+# 其他
+_ReSharper*/
+*.DotSettings.user
